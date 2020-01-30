@@ -8,7 +8,7 @@ This repository is currently being used for hosting the official issue & bug tra
 
 Download: [here](https://dbschema.com)
  
-Report bugs/request new feature: [issues](https://github.com/dbschema-designer/dbschmea-issues/issues).
+Report bugs/request new feature: [issues](https://github.com/dbschema-designer/dbschema-issues/issues).
 
 Author: Wise Coders GmbH
 
