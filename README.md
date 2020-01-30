@@ -15,7 +15,7 @@ Author: Wise Coders GmbH
 App screenshots:
 
 ![DbSchema](https://github.com/dbschema-designer/dbschema-issues/blob/master/resources/dbschema.png "DbSchema")
-![Dark-Theme-screen](https://github.com/dbschema-designer/dbschema-issues/blob/master/resources/theme-dark.png "Dark Them screen")
+![Dark-Theme-screen](https://github.com/dbschema-designer/dbschema-issues/blob/master/resources/dark-theme.png "Dark Them screen")
 
 DbSchema has 15 days trial time.
 
