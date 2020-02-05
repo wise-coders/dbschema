@@ -1,0 +1,8 @@
+com.wisecoders.dbs.diagram.model
+com.wisecoders.dbs.diagram.model.undo
+com.wisecoders.dbs.rdbms
+com.wisecoders.dbs.rdbms.sync.engine.diffs
+com.wisecoders.dbs.rdbms.sync.engine.nodes
+com.wisecoders.dbs.rdbms.sync.engine.operations
+com.wisecoders.dbs.schema
+com.wisecoders.dbs.sys
