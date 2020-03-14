@@ -1,4 +1,4 @@
-# Visual Tool for Database Design & Management
+# DbSchema: Visual Database Diagram Designer & Admin GUI Tool
 #### Intuitive, Beautiful, Friendly
 
 > Simplify database design & management. Edit, document and browse complex databases with a friendly GUI tool.
