@@ -1,8 +1,10 @@
 # DbSchema: Visual Database Diagram Designer & Admin GUI Tool
 #### Intuitive, Beautiful, Friendly
 
-> Simplify database design & management. Edit, document and browse complex databases with a friendly GUI tool.
-> DbSchema supports: PostgreSQL, MSSql, MySQL, RedShift, MariaDB, Redshift, Cassandra, MongoDb, Db2, Sybase ...
+Powerful, yet easy-to-use, DbSchema helps you design, document and manage databases without having to be a SQL pro. Easily design new tables, generate HTML5 documentation, explore and edit the database data, compare and synchronize the schema over multiple databases, edit and execute SQL, generate random data.
+DbSchema is compatible with all relational and few No-SQL databases. It works on all major operating systems, including Windows, Linux and Mac
+You can [download](https://dbschema.com/download.html) and evaluate DbSchema 15 days for free.
+
 
 This repository is currently being used for hosting the official issue & bug tracker of DbSchema.
 
