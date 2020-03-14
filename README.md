@@ -12,9 +12,21 @@ Report bugs/request new feature: [issues](https://github.com/wise-coders/dbschem
 
 Author: Wise Coders GmbH
 
-App screenshots:
+DbSchema screenshots:
 
-![DbSchema](https://github.com/dbschema-designer/dbschema-issues/blob/master/resources/dbschema.png "DbSchema")
+![DbSchema GUI](resources/dbschema.png "DbSchema")
+
+Edit table in the database
+
+![Edit Database Table GUI](resources/dbschema-edit-table.png "DbSchema")
+
+Relational data browse for easy exploring database data
+
+![Relational Data Browse GUI](resources/dbschema-relational-data-browse.png "DbSchema")
+
+SQL Editor with text auto-completion
+
+![SQL Editor](resources/dbschema-sql-editor.png "DbSchema")
 
 or dark theme
 
